@@ -1,4 +1,4 @@
-
+<img src="https://usa.bootcampcdn.com/wp-content/uploads/sites/106/2020/03/Web-Development-San-Francisco-1.jpeg">
 
 <h1 align="center">Hi 👋, I'm Ashim Dutta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
